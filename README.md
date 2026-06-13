@@ -19,16 +19,11 @@ This project is created to practice Git and GitHub workflows, including reposito
 
 git-practice-tamjid/
 
-├── README.md
-
-├── .gitignore
-
-├── src/
-
-│   ├── main.py
-
-│   └── utils.py
-
-└── docs/
-
-    └── project-description.md
+    │
+    ├── README.md
+    ├── .gitignore
+    ├── src/
+    │   ├── main.py
+    │   └── utils.py
+    └── docs/
+        └──── project-description.md
