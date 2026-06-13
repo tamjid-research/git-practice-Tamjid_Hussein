@@ -1,10 +1,34 @@
 # Git Practice Project
 
-## Name:
+## Author Name:
 
-Tamjid Hussein
+### Tamjid Hussein
 
-## What This Project Does:
+## Description
 
+This project is created to practice Git and GitHub workflows, including repository initialization, branching, merging, commits, and remote repository management.
 
-This is a simple Git practice project created to learn Git repository initialization, file tracking, commits, and version control workflows. The project contains a basic Python program that prints the author's name and the current date.
+## Features
+
+* Display author's name
+* Display current date
+* Addition function
+* Subtraction function
+
+## Project Structure
+
+git-practice-tamjid/
+
+├── README.md
+
+├── .gitignore
+
+├── src/
+
+│   ├── main.py
+
+│   └── utils.py
+
+└── docs/
+
+    └── project-description.md
